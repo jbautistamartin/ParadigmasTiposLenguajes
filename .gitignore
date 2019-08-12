@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Fuentes/POO/1 - C#, POO/Ejemplo1/.vs/ejemploPoligonos/v14/*.suo
+/Fuentes/POO/1 - C#, POO/Ejemplo1/obj
+/Fuentes/POO/1 - C#, POO/Ejemplo1/bin
