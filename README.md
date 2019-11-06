@@ -167,6 +167,3 @@ A continuación las carpetas donde se encuentra el código fuente ilustrativo de
 *   **Anexo I:** Mapa
 *   **Anexo I:** Codigo fuente de ejemplo
 *   **Anexo II:** Enlaces online de este documento
-
-
-
