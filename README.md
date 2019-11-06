@@ -67,11 +67,9 @@ El documento es un compendio de los artículos publicados en el blog de autor, [
       
     [https://desdelashorasextras.blogspot.com/2019/03/paradigmas-y-tipos-de-lenguajes.html](https://desdelashorasextras.blogspot.com/2019/03/paradigmas-y-tipos-de-lenguajes.html)
 
-**Paradigmas** 
-**y tipos de lenguajes informáticos (2 de 3)**
-
+*   **Paradigmas y tipos de lenguajes informáticos (2 de 3)**
   
-[https://desdelashorasextras.blogspot.com/2019/05/paradigmas-y-tipos-de-lenguajes.html](https://desdelashorasextras.blogspot.com/2019/05/paradigmas-y-tipos-de-lenguajes.html)
+	[https://desdelashorasextras.blogspot.com/2019/05/paradigmas-y-tipos-de-lenguajes.html](https://desdelashorasextras.blogspot.com/2019/05/paradigmas-y-tipos-de-lenguajes.html)
 
 *   **Paradigmas** **y tipos de lenguajes informáticos (3 de 3). Programación Imperativa**
 
@@ -83,7 +81,7 @@ El documento es un compendio de los artículos publicados en el blog de autor, [
       
     [https://desdelashorasextras.blogspot.com/2019/10/paradigmas-y-tipos-de-lenguajes_30.html](https://desdelashorasextras.blogspot.com/2019/10/paradigmas-y-tipos-de-lenguajes_30.html)
 
-*   **Paradigmas** **y tipos de lenguajes informáticos (3 de 3). Programación declarativa**
+*   **Paradigmas** **y tipos de lenguajes informáticos (3 de 3). Programación declarativa
 
       
     [https://desdelashorasextras.blogspot.com/2019/10/paradigmas-y-tipos-de-lenguajes_80.html](https://desdelashorasextras.blogspot.com/2019/10/paradigmas-y-tipos-de-lenguajes_80.html)
@@ -94,11 +92,9 @@ El documento es un compendio de los artículos publicados en el blog de autor, [
     [https://desdelashorasextras.blogspot.com/2019/10/paradigmas-y-tipos-de-lenguajes_0.html](https://desdelashorasextras.blogspot.com/2019/10/paradigmas-y-tipos-de-lenguajes_0.html)
 
 
-
-**Codigo** **fuente de los ejemplos (y del documento)**  
-
+*   **Codigo fuente de los ejemplos (y del documento)**  
   
-[https://github.com/jbautistamartin/ParadigmasTiposLenguajes](https://github.com/jbautistamartin/ParadigmasTiposLenguajes)
+	[https://github.com/jbautistamartin/ParadigmasTiposLenguajes](https://github.com/jbautistamartin/ParadigmasTiposLenguajes)
 
 
 
@@ -171,6 +167,3 @@ A continuación las carpetas donde se encuentra el código fuente ilustrativo de
 *   **Anexo I:** Mapa
 *   **Anexo I:** Codigo fuente de ejemplo
 *   **Anexo II:** Enlaces online de este documento
-
-
-
