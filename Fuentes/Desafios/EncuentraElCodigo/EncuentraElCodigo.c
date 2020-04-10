@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 /*
-¿Puedes descigrar el codigo?
+¿Puedes descifrar el codigo?
 _ _ _
 682: Un número es correcto y en su posición correcta.
 614: Un número es correcto pero mal posicionado.
