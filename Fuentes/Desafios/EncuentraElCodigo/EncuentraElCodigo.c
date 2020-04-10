@@ -48,7 +48,7 @@ bool regla2(int x, int y, int z)
 	return validar(validos, 6, x, y, z);
 }
 
-// 614: Un número es correcto pero mal posicionado.
+// 206: Dos números son correctos peros su posición no
 bool regla3(int x, int y, int z)
 {
 	int validos1[2][3] = {
@@ -66,9 +66,13 @@ bool regla3(int x, int y, int z)
 		{ X, 6, X },
 	};
 
-	bool valido = (validar(validos1, 2, x, y, z) && validar(validos2, 2, x, y, z)) ||
-		(validar(validos1, 2, x, y, z) && validar(validos3, 2, x, y, z)) ||
-		(validar(validos2, 2, x, y, z) && validar(validos3, 2, x, y, z));
+	bool valido = 
+		(validar(validos1, 2, x, y, z) 
+			&& validar(validos2, 2, x, y, z)) ||
+		(validar(validos1, 2, x, y, z) 
+			&& validar(validos3, 2, x, y, z)) ||
+		(validar(validos2, 2, x, y, z) 
+			&& validar(validos3, 2, x, y, z));
 
 	return valido;
 }
@@ -118,9 +122,13 @@ bool validar(int validos[][3], int filas, int x, int y, int z)
 	//Veo si alguna fila es valida
 	for (int i = 0; i < filas; i++)
 	{
-		bool valido = (validos[i][0] == X || validos[i][0] == x) &&
-			(validos[i][1] == X || validos[i][1] == y) &&
-			(validos[i][2] == X || validos[i][2] == z);
+		bool valido = 
+			(validos[i][0] == X 
+				|| validos[i][0] == x) &&
+			(validos[i][1] == X 
+				|| validos[i][1] == y) &&
+			(validos[i][2] == X 
+				|| validos[i][2] == z);
 
 		if (valido) return true;
 
